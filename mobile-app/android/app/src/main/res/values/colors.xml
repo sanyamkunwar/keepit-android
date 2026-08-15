@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2F7D73</color>
+    <color name="colorPrimaryDark">#0C1B2F</color>
+    <color name="colorAccent">#2F7D73</color>
+    <color name="keepitCanvas">#F7F5F1</color>
+</resources>

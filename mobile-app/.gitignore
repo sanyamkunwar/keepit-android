@@ -1,0 +1,17 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.DS_Store
+.signing/
+AGENTS.md
+implementation-device-raw.png
+implementation-full-frame.png
+implementation-pixel-full-frame.png
+implementation-mobile-screen.png
+qa-comparison.html
+design-qa-comparison.png
+design-qa.md
+reference-option-1.png
+screenshots/*-test.png
+screenshots/keepit-native-final.png

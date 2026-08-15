@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">KeepIt</string>
+    <string name="title_activity_main">KeepIt</string>
+    <string name="package_name">com.keepit.mobile</string>
+    <string name="custom_url_scheme">com.keepit.mobile</string>
+</resources>

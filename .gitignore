@@ -1,0 +1,4 @@
+.DS_Store
+mobile-app/.signing/
+mobile-app/release/*-aligned.apk
+mobile-app/release/*.idsig
